@@ -207,6 +207,13 @@
                 </ul>
             <li>Dispatches werden auf Karte angezeigt
         </ul>
+    <li>Einsatztberichte
+        <ul>
+            <li>Titel
+            <li>Beteiligte Einsatzkräft (Drop Down?)
+            <li>Uhrzeit u. Datum
+            <li>Textfeld
+        </ul>
     <li>Lorem Ipsum
         <ul>
             <li>Lorem Ipsum
