@@ -34,7 +34,14 @@
                     <li>Akteinträge [10]
                         <ul>
                             <li>Automatische Nummerierung 
-                            <li>Masseneintrag
+                            <li>Masseneintrag <> Strafrechner
+                            <li>Anhangfeld
+                            <li>Unterschrift Supervisor (Schriftart Handschriftlich)
+                            <li>Infos Beschuldiger + Ersteller u. weitere Einsatzkräfte (AutoFill)
+                            <li>Zeugen + weitere Zivi's (AutoFill)
+                                <ul>
+                                    <li>Erstell Button falls nicht vorhanden + Error
+                                </ul>
                             <li>Kleines Notizfeld mit Haft u. Datum per Knopf öffnebar 
                             <li>Anzeige ob Widerholungstäter (Wenn ja, Nummer)
                             <li>Schieberegler sowohl für Gesamtmaß als auch für Einzelstrafmaß mit Check, ob das Gesetz noch eingehalten ist
@@ -65,6 +72,18 @@
                     </ul>
         </ul>
     <li>Fahrzeugregister [8]
+         <ul>
+            <li>Anmelduing
+            <li>Zuordnung in der Anmeldung und Bearbeitung
+            <li>Statussystem
+                <ul>
+                    <li>Type
+                    <li>Type
+                    <li>Manufracture
+                    <li>Model
+                    <li>Color
+                </ul>
+        </ul>
     <li>Ermittlungen [5]
         <ul>
             <li>Zuordnung in der Anlegung
