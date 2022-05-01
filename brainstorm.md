@@ -31,6 +31,9 @@
                     <li>Fahrzeuge automatisiert zuordnen [10]
                     <li>Verkehrspunkte [5]
                     <li>Lizenzverwaltung [10]
+                         <ul>
+                               <li>Basisfunktion - Erledigt
+                        </ul>
                     <li>Akteinträge [10]
                         <ul>
                             <li>Automatische Nummerierung 
