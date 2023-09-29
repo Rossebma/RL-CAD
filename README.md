@@ -20,7 +20,8 @@
 * Pinned messages: 
 
 ---
-========= EMBED =========
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 @» Vorstand,
 @Marvin R. hat ein neues Ticket erstellt
 
@@ -35,7 +36,8 @@ Hallo!
 Ich habe gestern Basti beim einrichten seines Mailprogramms für die TASC Buchungsmail geholfen. Dafür musste ich die Serverdaten aus dem Strato-Panel ziehen. Dabei ist mir ins Auge gesprungen, dass wir einige Mails haben, die Brach liegen und besonders ist mir eine Mail für eine bestimmte Person ins Auge gefallen. Wer ist Marc Nordmann und warum hat er eine eigene as-combat.de mail? (Bild folgt)
 
 Discord Tickets by eartharoid
-=========================
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 <M01> [26.09.23, 21:52:58 UTC] Marvin R.: 
 	https://cdn.discordapp.com/attachments/1156347670303092737/1156347711017205800/image.png?ex=6514a43a&is=651352ba&hm=8d2926eb87d73c3b566060e321bbb661ac1e6f2bb75c65ffb55737cf60b2173f&
