@@ -94,35 +94,25 @@ Discord Tickets by eartharoid
 <M25> [29.09.23, 14:21:38 UTC] Göndyr | Basti: der verein löhnt und du reißt die fresse auf es sei ja deins. schon irgendwie ziemlich hirnrissig^^
 
 <M26> [29.09.23, 14:23:49 UTC] HG | Luca E.: Einmal kurz für euch bitte haltet euch an das eigentliche Thema ich merke das es hier gerade etwas abdriftet und dafür wurde dieses Ticket nicht geöffnet.
-	
-	Ich bitte alle Parteien das in diesem Bereich nur relevantes zu diesem Thema kommt.
-	
-	Danke für euer Verständnis
+Ich bitte alle Parteien das in diesem Bereich nur relevantes zu diesem Thema kommt.
+Danke für euer Verständnis
 
 <M27> [29.09.23, 14:32:52 UTC] Marvin R.: Okay ich habe es satt.
 	Folgendes hast du damals zu mir sinngemäß gesagt:
 	> *Marvin ich gebe dir jetzt die Zugangsdaten für meinen Strato-Acount. Da ist auch privater Kram von mir mit drin, du geht bitte nur in den Bereich "Hoster Starter" rein. Aus Datenschutzgründen ließt du dir auch bitte keine E-Mails durch, die wir erhalten.*
 	Ich habe die Schnauze gestrichen voll davon, mir von dir anhören zu müssen ich hätte dich "ausgenutzt". Das ist Bullshit und wir beide wissen das. Solltest du dich wirklich nicht mehr erinnern können, solltest du mal ganz kleine Brötchen Backen und freundlich Nachfragen. Ich lasse mich nicht von dir beschuldigen, Dinge getan zu haben, die ich nicht getan habe. 
-	
-	Du willst Diskutieren? Können wir machen. Aber ich werde nicht länger auf ein Diskussionsniveau eingehen, dass weit unter dem ist, was ich von einem 1. Vorsitzenden Erwarten würde. Meine Formulierungen sarkastisch wiederzuverwenden ist lächerlich.
-	
-	Ich werde dieses Ticket in ungefähr 15 Minuten schließen. Für weiteres kannst du mich privat anschreiben. Ich hatte gehofft vom Vorstand eine Aussage dazu bekommen, warum Marc Nordmann eine eigene Mail hat. Hat mich schlicht und ergreifend gewundert, weil ich nicht einmal weiß wer das ist. Hätte ja auch sein können, dass das einen bestimmten und vor allem sinnvollen Grund hat. Anstelle mir einfach normal zu antworten verleumdest du mich. Ist das dein Ernst? 
-	
-	Das Thema ist für mich erledigt und wir beide können entweder in Privatnachrichten diskutieren oder es wird bei der Mitgliederversammlung geklärt. Bezüglich der Mitgliederversammlung solltest du mal in die Info-Mail schauen. 
-	
-	Ich wünsche noch einen angenehmen Freitag.
+Du willst Diskutieren? Können wir machen. Aber ich werde nicht länger auf ein Diskussionsniveau eingehen, dass weit unter dem ist, was ich von einem 1. Vorsitzenden Erwarten würde. Meine Formulierungen sarkastisch wiederzuverwenden ist lächerlich.
+Ich werde dieses Ticket in ungefähr 15 Minuten schließen. Für weiteres kannst du mich privat anschreiben. Ich hatte gehofft vom Vorstand eine Aussage dazu bekommen, warum Marc Nordmann eine eigene Mail hat. Hat mich schlicht und ergreifend gewundert, weil ich nicht einmal weiß wer das ist. Hätte ja auch sein können, dass das einen bestimmten und vor allem sinnvollen Grund hat. Anstelle mir einfach normal zu antworten verleumdest du mich. Ist das dein Ernst? 
+Das Thema ist für mich erledigt und wir beide können entweder in Privatnachrichten diskutieren oder es wird bei der Mitgliederversammlung geklärt. Bezüglich der Mitgliederversammlung solltest du mal in die Info-Mail schauen. 
+Ich wünsche noch einen angenehmen Freitag.
 
 <M28> [29.09.23, 14:34:43 UTC] Marvin R.: <@809748607616024628> 
 	Okay ich habe es satt.
 	Folgendes hast du damals zu mir sinngemäß gesagt:
 	> *Marvin ich gebe dir jetzt die Zugangsdaten für meinen Strato-Acount. Da ist auch privater Kram von mir mit drin, du geht bitte nur in den Bereich "Hoster Starter" rein. Aus Datenschutzgründen ließt du dir auch bitte keine E-Mails durch, die wir erhalten.*
 	Ich habe die Schnauze gestrichen voll davon, mir von dir anhören zu müssen ich hätte dich "ausgenutzt". Das ist Bullshit und wir beide wissen das. Solltest du dich wirklich nicht mehr erinnern können, solltest du mal ganz kleine Brötchen Backen und freundlich Nachfragen. Ich lasse mich nicht von dir beschuldigen, Dinge getan zu haben, die ich nicht getan habe. 
-	
-	Du willst Diskutieren? Können wir machen. Aber ich werde nicht länger auf ein Diskussionsniveau eingehen, dass weit unter dem ist, was ich von einem 1. Vorsitzenden Erwarten würde. Meine Formulierungen sarkastisch wiederzuverwenden ist lächerlich.
-	
-	Ich werde dieses Ticket in ungefähr 15 Minuten schließen. Für weiteres kannst du mich privat anschreiben. Ich hatte gehofft vom Vorstand eine Aussage dazu bekommen, warum Marc Nordmann eine eigene Mail hat. Hat mich schlicht und ergreifend gewundert, weil ich nicht einmal weiß wer das ist. Hätte ja auch sein können, dass das einen bestimmten und vor allem sinnvollen Grund hat. Anstelle mir einfach normal zu antworten verleumdest du mich. Ist das dein Ernst? 
-	
-	Das Thema ist für mich erledigt und wir beide können entweder in Privatnachrichten diskutieren oder es wird bei der Mitgliederversammlung geklärt. Bezüglich der Mitgliederversammlung solltest du mal in die Info-Mail schauen. 
-	
-	Ich wünsche noch einen angenehmen Freitag.
+Du willst Diskutieren? Können wir machen. Aber ich werde nicht länger auf ein Diskussionsniveau eingehen, dass weit unter dem ist, was ich von einem 1. Vorsitzenden Erwarten würde. Meine Formulierungen sarkastisch wiederzuverwenden ist lächerlich.
+Ich werde dieses Ticket in ungefähr 15 Minuten schließen. Für weiteres kannst du mich privat anschreiben. Ich hatte gehofft vom Vorstand eine Aussage dazu bekommen, warum Marc Nordmann eine eigene Mail hat. Hat mich schlicht und ergreifend gewundert, weil ich nicht einmal weiß wer das ist. Hätte ja auch sein können, dass das einen bestimmten und vor allem sinnvollen Grund hat. Anstelle mir einfach normal zu antworten verleumdest du mich. Ist das dein Ernst? 
+Das Thema ist für mich erledigt und wir beide können entweder in Privatnachrichten diskutieren oder es wird bei der Mitgliederversammlung geklärt. Bezüglich der Mitgliederversammlung solltest du mal in die Info-Mail schauen. 
+Ich wünsche noch einen angenehmen Freitag.
 
